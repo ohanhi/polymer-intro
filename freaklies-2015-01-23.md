@@ -3,17 +3,18 @@ Polymer is not an experiment anymore
 
 Ossi Hanhinen, 23 Jan 2015
 
-_A quick look at what's going on in the world of Polymer, based on [this article and the referred talk](http://updates.html5rocks.com/2015/01/polymer-state-of-the-union)._
+_A quick look at what's going on in the world of [Polymer](http://www.polymer-project.org/), based on [this article and the referred talk](http://updates.html5rocks.com/2015/01/polymer-state-of-the-union)._
 
 
-"Polymer helps developers build awesome applications faster, easier, better."
+> Polymer helps developers build awesome applications faster, easier, better.
+
 
 # Library, not a framework
 
-- builds on (upcoming) standards
-- "the framework is DOM"
-- has very little "special syntax"
-  - only the declarative syntax
+- Builds on (upcoming) standards
+- "The framework is the DOM"
+- Very little "special syntax"
+  - Only the declarative syntax is Polymer-specific
 
 # tl; dr
 
