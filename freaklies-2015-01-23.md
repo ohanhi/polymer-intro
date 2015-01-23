@@ -1,9 +1,9 @@
 Polymer is not an experiment anymore
 =========================================
 
-Ossi Hanhinen, 23 Jan 2015
-
 _A quick look at what's going on in the world of [Polymer](http://www.polymer-project.org/), based on [this article and the referred talk](http://updates.html5rocks.com/2015/01/polymer-state-of-the-union)._
+
+Ossi Hanhinen, 23 Jan 2015
 
 
 > Polymer helps developers build awesome applications faster, easier, better.
